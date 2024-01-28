@@ -8,7 +8,7 @@ exports.component = {
   instantStyles: [
     {
       name: "removeCharge",
-      style: ".new-charge-btn { display: none !important; }",
+      style: ".old-charge-btn { display: none !important; }",
     },
   ],
   tags: [
